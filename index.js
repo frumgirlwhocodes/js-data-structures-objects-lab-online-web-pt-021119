@@ -2,7 +2,7 @@
 const driver = {}
 
 function  updateDriverWithKeyAndValue(driver, key, value) {
-   const newDriver= 
+   const newDriver= Object.assign()
   
   return newDriver 
 };
